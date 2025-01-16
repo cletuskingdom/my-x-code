@@ -39,7 +39,7 @@ class SendOtp
                 $send_otp = $termii->sendMessage(
                     $phone_number,
                     'N-Alert',
-                    "Your HappyBelly confirmation code is " . $code . ", this is for one-time use only.",
+                    "Your   confirmation code is " . $code . ", this is for one-time use only.",
                     "dnd",
                     false,
                     null,
@@ -74,7 +74,7 @@ class SendOtp
             $send_otp = $termii->sendMessage(
                 $formattedPhone,
                 'N-Alert',
-                "Your HappyBelly confirmation code is " . $OTP . ", this is for one-time use only.",
+                "Your   confirmation code is " . $OTP . ", this is for one-time use only.",
                 "dnd",
                 false,
                 null,

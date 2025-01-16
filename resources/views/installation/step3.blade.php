@@ -33,7 +33,7 @@
                 <h5 class="fw-normal">Update Database Information</h5>
             </div>
             <p class="mb-4">Provide your database information.
-                <a href="https://eathappybelly.com/" target="_blank">
+                <a href="https://eat .com/" target="_blank">
                     Where to get this information ?</a>
             </p>
 

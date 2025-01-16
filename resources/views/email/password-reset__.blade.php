@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Happy Belly Password Reset</title>
+    <title>  Password Reset</title>
   </head>
   <style>
     .clearfix ::after {

@@ -49,7 +49,7 @@
 <div class="footer text-center">
     <ul class="list-inline list-separator">
         <li class="list-inline-item">
-            <a class="list-separator-link" target="_blank" href="https://eathappybelly.com/">Happy Belly Support</a>
+            <a class="list-separator-link" target="_blank" href="https://eat .com/">  Support</a>
         </li>
     </ul>
 </div>

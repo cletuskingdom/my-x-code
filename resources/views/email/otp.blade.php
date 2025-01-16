@@ -13,7 +13,7 @@
                 <!-- Header -->
                 <tr>
                     <td align="center" style="background-color: #fecb00;">
-                    <img src="https://eathappybelly.com/banner.png" alt="Logo" style="width: 200px; height: auto; display: block;">
+                    <img src="https://eat .com/banner.png" alt="Logo" style="width: 200px; height: auto; display: block;">
                     </td>
                 </tr>
                     

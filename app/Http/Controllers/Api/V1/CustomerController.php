@@ -432,7 +432,7 @@ class CustomerController extends Controller
             $subject = 'Catering Request from ' . $request->email;
 
             // Send the email
-            Mail::to(Helpers::sanitize_input('catering@eathappybelly.com'))->send(new CateringRequest($details, $subject));
+            Mail::to(Helpers::sanitize_input('catering@eat .com'))->send(new CateringRequest($details, $subject));
             // $request->email
             
             // Return a success response

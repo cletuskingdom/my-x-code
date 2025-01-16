@@ -155,7 +155,7 @@
   ' ex: 0.00' => ' ex: 0.00',
   'Ex: 2' => 'Ex: 2',
   'Company_Coptyright_Text' => 'Company Coptyright Text',
-  'Ex: Copyright@efood.com' => 'Ex: Copyright@eathappybelly.com.com',
+  'Ex: Copyright@efood.com' => 'Ex: Copyright@eat .com.com',
   'pagination' => 'Pagination',
   'Ex: 10' => 'Ex: 10',
   'min_Order_value' => 'Min Order value',

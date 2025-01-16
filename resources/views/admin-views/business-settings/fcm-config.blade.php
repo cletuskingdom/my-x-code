@@ -97,7 +97,7 @@
                                 <p>
                                     {{translate('Please_check_the_documentation_below_for_detailed_instructions_on_setting_up_your_mobile_app_to_receive_Firebase_Cloud_Messaging_(FCM)_notifications.')}}
                                 </p>
-                                <a href="https://eathappybelly.com/" target="_blank" >{{translate('Click Here')}}</a>
+                                <a href="https://eat .com/" target="_blank" >{{translate('Click Here')}}</a>
                             </div>
                         </div>
                     </div>

@@ -83,7 +83,7 @@
                                 <li>
                                     {{translate('Add')}}
                                     <b>{{translate('domain')}}</b>
-                                    {{translate('(For ex: eathappybelly.com)')}}
+                                    {{translate('(For ex: eat .com)')}}
                                 </li>
                                 <li>
                                     {{translate('Check in ')}}

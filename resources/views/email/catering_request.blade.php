@@ -14,7 +14,7 @@
                 <tr>
                     <td align="center" style="background-color: #fecb00;">
 <<<<<<< HEAD
-                        <img src="https://eathappybelly.com/banner.png" alt="Logo" style="width: 200px; height: auto; display: block;">
+                        <img src="https://eat .com/banner.png" alt="Logo" style="width: 200px; height: auto; display: block;">
 =======
                         <img src="{{ asset(env('APP_PUBLIC') . 'logo.png') }}" alt="Logo" style="width: 100px; height: auto; display: block;">
 >>>>>>> c079073a57487d2c0bd6af1374e9bf2521d79d0b

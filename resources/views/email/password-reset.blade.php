@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Happy Belly Account Verification</title>
+    <title>  Account Verification</title>
   </head>
   <style>
     @font-face {
@@ -171,7 +171,7 @@
                   font-family: Nourd;
                   font-size: clamp(0.85rem, 5vw, 1.5rem);
                 ">
-                Happy Belly
+                 
               </h3>
               <img
                 src="{{asset('public/assets/mail/images/logo.png')}}"
@@ -254,7 +254,7 @@
                   color: #e7e7e7;
                 ">
                 For support, contact us via
-                <a href="mailto:support@happybelly.com" style="color: #c9ac20">support@eathappybelly.com</a>
+                <a href="mailto:support@ .com" style="color: #c9ac20">support@eat .com</a>
               </p>
               <p
                 style="
@@ -279,7 +279,7 @@
                 <script>
                   document.write(new Date().getFullYear());
                 </script>
-                <strong style="letter-spacing: 5px"> HAPPY BELLY.</strong> All
+                <strong style="letter-spacing: 5px">  .</strong> All
                 rights reserved.
               </p>
             </div>

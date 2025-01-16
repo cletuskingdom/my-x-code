@@ -684,7 +684,7 @@
   'Sub type: I\'m not a robot Checkbox' => 'Sub type: I m not a robot Checkbox',
   'Add' => 'Add',
   'domain' => 'Domain',
-  '(For ex: eathappybelly.com)' => '(For ex: eathappybelly.com)',
+  '(For ex: eat .com)' => '(For ex: eat .com)',
   'Check in ' => 'Check in ',
   'Accept the reCAPTCHA Terms of Service' => 'Accept the reCAPTCHA Terms of Service',
   'Press' => 'Press',
